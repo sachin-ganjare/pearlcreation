@@ -1,0 +1,79 @@
+/*
+Custom Css
+*/
+.services-icon-wap:hover {
+    background-color: #ac732c !important; /* Your theme color */
+}
+
+.bg-success {
+    background-color: #f7e7ce !important; /* Champagne Gold */
+}
+
+#template-mo-zay-hero-carousel .carousel-inner {
+    background-color: #f7e7ce; /* Champagne Gold */
+}
+
+/* Replace green buttons */
+.btn-success {
+    background-color: #ac732c !important; /* Your theme color */
+    border-color: #ac732c !important;
+}
+
+.btn-success:hover {
+    background-color: #d4a76a !important; /* Lighter shade for hover */
+    border-color: #d4a76a !important;
+}
+
+/* Replace green text */
+.text-success {
+    color: #ac732c !important;
+}
+
+/* Replace green borders */
+.border-success {
+    border-color: #ac732c !important;
+}
+
+/* Replace green navbar brand */
+.navbar-light .navbar-brand.text-success {
+    color: #ac732c !important;
+}
+
+.btn-success {
+    background-color: #ac732c !important; /* Your theme color */
+    border-color: #ac732c !important;
+    color: #ffffff !important; /* Ensure text is white */
+}
+
+.btn-success:hover {
+    background-color: #d4a76a !important; /* Lighter shade for hover */
+    border-color: #d4a76a !important;
+    color: #000000 !important; /* Ensure text is black on hover */
+}
+
+/* General link styles */
+a {
+     /* Your theme color */
+    text-decoration: none !important; /* Remove underline */
+    transition: color 0.3s ease !important; /* Smooth transition for hover */
+}
+
+/* Hover effect for links */
+a:hover {
+    color: #d4a76a !important; /* Lighter shade for hover */
+    text-decoration: underline !important; /* Optional: Add underline on hover */
+}
+
+
+/* Style for carousel next and previous buttons */
+
+#template-mo-zay-hero-carousel .carousel-control-prev {
+    color:#ac732c !important;
+}
+#template-mo-zay-hero-carousel .carousel-control-next i, #template-mo-zay-hero-carousel .carousel-control-prev i{
+    color:#ac732c !important;
+}
+
+.rounded-circle {
+    border-radius: 30% !important;
+}
